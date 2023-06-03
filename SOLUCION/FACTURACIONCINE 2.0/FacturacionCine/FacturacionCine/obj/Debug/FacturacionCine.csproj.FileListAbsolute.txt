@@ -1,0 +1,217 @@
+D:\ADMIN\Escritorio\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\FacturacionCine.exe.config
+D:\ADMIN\Escritorio\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\FacturacionCine.exe
+D:\ADMIN\Escritorio\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\FacturacionCine.pdb
+D:\ADMIN\Escritorio\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.csproj.AssemblyReference.cache
+D:\ADMIN\Escritorio\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.csproj.SuggestedBindingRedirects.cache
+D:\ADMIN\Escritorio\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmPrincipal.resources
+D:\ADMIN\Escritorio\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.Properties.Resources.resources
+D:\ADMIN\Escritorio\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.csproj.GenerateResource.cache
+D:\ADMIN\Escritorio\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.csproj.CoreCompileInputs.cache
+D:\ADMIN\Escritorio\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.exe
+D:\ADMIN\Escritorio\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.pdb
+D:\ADMIN\Escritorio\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmMantenimientoCliente.resources
+D:\ADMIN\Escritorio\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmPopupCliente.resources
+D:\ADMIN\Escritorio\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmMantenimientoCine.resources
+D:\ADMIN\Escritorio\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmPopupCine.resources
+D:\ADMIN\Escritorio\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmManteninimientoPelicula.resources
+D:\ADMIN\Escritorio\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmPopupPelicula.resources
+D:\ADMIN\Escritorio\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmMantenimientoSala.resources
+D:\ADMIN\Escritorio\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmPopupSala.resources
+D:\ADMIN\Escritorio\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmMantenimientoEmpleado.resources
+D:\ADMIN\Escritorio\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmPopupEmpleado.resources
+D:\ADMIN\Escritorio\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmMantenimientoFuncion.resources
+D:\ADMIN\Escritorio\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmPopupFuncion.resources
+D:\ADMIN\Escritorio\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmProcesoReserva.resources
+D:\ADMIN\Escritorio\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmBuscarEmpleado.resources
+D:\ADMIN\Escritorio\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmBuscarCliente.resources
+D:\ADMIN\Escritorio\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\MaterialSkin.dll
+D:\ADMIN\Escritorio\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmConsultaEmpleado.resources
+D:\ADMIN\Escritorio\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmConsultaPeliculaPorGenero.resources
+D:\ADMIN\Escritorio\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmConsultaReservaCliente.resources
+D:\ADMIN\Escritorio\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.csproj.CopyComplete
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\FacturacionCine.exe.config
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\FacturacionCine.exe
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\FacturacionCine.pdb
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\MaterialSkin.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\EnvDTE.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\stdole.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.csproj.AssemblyReference.cache
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.csproj.SuggestedBindingRedirects.cache
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmBuscarCliente.resources
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmBuscarEmpleado.resources
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmConsultaEmpleado.resources
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmConsultaPeliculaPorGenero.resources
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmConsultaReservaCliente.resources
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmMantenimientoCine.resources
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmMantenimientoCliente.resources
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmMantenimientoEmpleado.resources
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmMantenimientoFuncion.resources
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmMantenimientoSala.resources
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmManteninimientoPelicula.resources
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmPopupCine.resources
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmPopupCliente.resources
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmPopupEmpleado.resources
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmPopupFuncion.resources
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmPopupPelicula.resources
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmPopupSala.resources
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmPrincipal.resources
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmProcesoReserva.resources
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.PaisReporte.resources
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.Properties.Resources.resources
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.csproj.GenerateResource.cache
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.csproj.CoreCompileInputs.cache
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.csproj.CopyComplete
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.exe
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.pdb
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.EmpleadosReportes.resources
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.ClienteReporte.resources
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\aa-ER\FacturacionCine.resources.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmPopupSala.aa-ER.resources
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\aa-ER\FacturacionCine.resources.dll
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\FacturacionCine.exe.manifest
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\FacturacionCine.application
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.exe.manifest
+D:\ADMIN\Descargas\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.application
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.csproj.AssemblyReference.cache
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.csproj.SuggestedBindingRedirects.cache
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.ClienteReporte.resources
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.EmpleadosReportes.resources
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmBuscarCliente.resources
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmBuscarEmpleado.resources
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmConsultaEmpleado.resources
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmConsultaPeliculaPorGenero.resources
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmConsultaReservaCliente.resources
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmMantenimientoCine.resources
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmMantenimientoCliente.resources
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmMantenimientoEmpleado.resources
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmMantenimientoFuncion.resources
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmMantenimientoSala.resources
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmManteninimientoPelicula.resources
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmPopupCine.resources
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmPopupCliente.resources
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmPopupEmpleado.resources
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmPopupFuncion.resources
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmPopupPelicula.resources
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmPopupSala.resources
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmPrincipal.resources
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmProcesoReserva.resources
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.PaisReporte.resources
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.Properties.Resources.resources
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.frmPopupSala.aa-ER.resources
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.csproj.GenerateResource.cache
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.csproj.CoreCompileInputs.cache
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\aa-ER\FacturacionCine.resources.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.exe
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.pdb
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\FacturacionCine.exe.config
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\FacturacionCine.exe.manifest
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\FacturacionCine.application
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\FacturacionCine.exe
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\FacturacionCine.pdb
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\aa-ER\FacturacionCine.resources.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\MaterialSkin.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\EnvDTE.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\stdole.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.exe.manifest
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.application
+D:\ADMIN\Escritorio\PROGRAMACION ENTREGA PROYECTO\SOLUCION\FACTURACIONCINE 2.0\FacturacionCine\FacturacionCine\obj\Debug\FacturacionCine.csproj.CopyComplete
